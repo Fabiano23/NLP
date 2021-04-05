@@ -1,2 +1,2 @@
 # NLP
- Este repositório tem por objetivo a organização de projetos na área de processamento de linguagem natural. Cada pasta é referente a um projeto de NLP específico.
+ Este repositório tem por objetivo a organização de exercícios na área de processamento de linguagem natural. Cada pasta é referente a um exercício ou tutorial de NLP específico.
